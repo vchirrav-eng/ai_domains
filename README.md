@@ -1,4 +1,4 @@
-# ai_domains
+# AI Domains
 
 A visual mapping between the human brain, human cognition, and AI systems.
 
